@@ -1,0 +1,51 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+	font-family: Monaco, monospace;
+	text-decoration: none;
+}
+
+nav {
+	padding: 8px;
+	background-color: lightpink;
+	text-align: center;
+}
+
+footer {
+	background-color: lightpink;
+	text-align: center;
+	padding: 8px;
+}
+
+h1 {
+	font-family: Verdana;
+}
+
+.card {
+	padding: 20px;
+	text-align: center;
+	display: inline-block;
+}
+
+.card-img {
+	text-align: center;
+	height: 425px;
+	width: 300px;
+	border-radius: 20px;
+}
+
+#landing {
+	padding: 50px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	background-color: lightblue;
+	text-align: right;
+	font-size: 30px;
+}
+
+#movies {
+	text-align: center;
+	margin-top: 50px;
+	font-size: 25px;
+}
